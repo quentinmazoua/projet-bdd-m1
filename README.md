@@ -4,7 +4,7 @@ Dataset: [OpenDataSoft](https://public.opendatasoft.com/explore/dataset/affaires
 
 Le dataset présente les affaires de corruption en France (avec condamnation).
 
-## Champs
+### Champs
 
 * Description
 * Vie publique (oui/non)
@@ -25,4 +25,3 @@ Le dataset présente les affaires de corruption en France (avec condamnation).
 ### Exécution
 
 `mongo localhost <fichier>.js`
-
