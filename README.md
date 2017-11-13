@@ -39,6 +39,8 @@ Script JS qui
 
 `db.affairesCorruption.aggregate([{$group:{_id:"$lieu", affaires:{$sum:1}}}])`
 
-### Exécution
+## 5. Instructions
 
-`mongo localhost <fichier>.js`
+### 5.1 Exécution des requêtes
+
+`mongo localhost <fichier>.js` 
